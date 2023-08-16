@@ -22,7 +22,7 @@
       ]
     },
      {
-          "source": "/https://json-server-vercel-template.vercel.app/(.*)",
+          "source": "https://json-server-vercel-template.vercel.app/(.*)",
           "headers": [
             { "key": "Access-Control-Allow-Origin", "value": "*" }
           ]
